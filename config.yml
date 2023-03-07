@@ -1,0 +1,26 @@
+theme: PaperMod
+title: WinMaxiLTSC
+
+params:
+    disableThemeToggle: true
+    defaultTheme: dark
+    profileMode:
+        enabled: true
+        title: "Windows but better" # optional default will be site title
+        subtitle: "Nicely debloated: no Windows Defender, no Update, no bullshit"
+        #imageUrl: "" # optional
+        #imageTitle: "" # optional
+        #imageWidth: 120 # custom size
+        #imageHeight: 120 # custom size
+        buttons:
+            - name: Learn More
+              url: "/info"
+            - name: Download
+              url: "https://github.com/"
+
+#    socialIcons: # optional
+#        - name: "<platform>"
+#          url: "<link>"
+#        - name: "<platform 2>"
+#          url: "<link2>"
+
