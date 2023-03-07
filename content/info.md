@@ -30,6 +30,8 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 > - Windows Update is disabled by default
 >
 > - Other programmes have also been removed
+>
+> - Other optimisations
 
 ### Possible Use Cases
 
@@ -42,4 +44,4 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 
 - 1GB of RAM
 - 1 CPU Core
-- 20GB of RAM
+- 20GB of Storage
