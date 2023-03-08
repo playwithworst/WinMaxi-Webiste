@@ -36,7 +36,7 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 ### Possible Use Cases
 
 - An old PC
-- A server
+- A small server
 - A virtual machine
 - An embedded device
 
