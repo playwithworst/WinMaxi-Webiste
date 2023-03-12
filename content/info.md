@@ -28,6 +28,10 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 >> More CPU Resources
 >
 > - Windows Update is disabled by default
+>>
+>> - **Disclaimer: Windows update shouldn't be reenabled if you want to keep all the opimisations. Otherwise it will revert almos all optimisations.
+>
+> - Windows Search is completely removed
 >
 > - Other programmes have also been removed
 >
@@ -36,7 +40,7 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 ### Possible Use Cases
 
 - An old PC
-- A small server
+- A server
 - A virtual machine
 - An embedded device
 
