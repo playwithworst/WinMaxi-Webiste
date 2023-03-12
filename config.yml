@@ -7,7 +7,7 @@ params:
     profileMode:
         enabled: true
         title: "Windows but better" # optional default will be site title
-        subtitle: "Nicely debloated: no Windows Defender, no Update, no waste of resources, no bullshit"
+        subtitle: "Nicely debloated: no Windows Defender, no Update, no bullshit"
         #imageUrl: "" # optional
         #imageTitle: "" # optional
         #imageWidth: 120 # custom size
