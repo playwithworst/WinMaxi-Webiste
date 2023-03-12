@@ -29,7 +29,7 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 >
 > - Windows Update is disabled by default
 >>
->> - **Disclaimer: Windows update shouldn't be reenabled if you want to keep all the opimisations. Otherwise it will revert almos all optimisations.**
+>> - **Disclaimer**: Windows update shouldn't be reenabled if you want to keep all the opimisations. Otherwise it will revert almos all optimisations.
 >
 > - Windows Search is completely removed
 >
