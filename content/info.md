@@ -13,29 +13,29 @@ WinMaxiLTSC is a project which started out of **curiosity**. I wanted to learn h
 
 ### Changes  & Details
 
-> - It's based on Windows 10 enterprise IOT 2021
->
->> Less updates
->>
->> Less bloatware
->>
->> Security updates until 2031
->
-> - Windows Defender was completely removed
->
->> More Storage
->>
->> More CPU Resources
->
-> - Windows Update is disabled by default
->>
->> - **Disclaimer**: Windows update shouldn't be reenabled if you want to keep all the opimisations. Otherwise it will revert almos all optimisations.
->
-> - Windows Search is completely removed
->
-> - Other programmes have also been removed
->
-> - Other optimisations
+- It's based on Windows 10 enterprise IOT 2021
+
+    - Less updates
+
+    - Less bloatware
+
+    - Security updates until 2031
+
+- Windows Defender was completely removed
+
+    - More Storage
+
+    - More CPU Resources
+
+- Windows Update is disabled by default
+
+    - **Disclaimer**: Windows update shouldn't be reenabled if you want to keep all the opimisations. Otherwise it will revert almos all optimisations.
+
+- Windows Search is completely removed
+
+ - Other programmes have also been removed
+
+ - Other optimisations
 
 ### Possible Use Cases
 
